@@ -18,4 +18,23 @@ I care about building systems that are **clear, resilient, and designed to evolv
 
 ---
 
+## 🌍 Open Source Impact
+
+I contribute to open-source projects with real-world adoption, including repositories used by thousands of developers worldwide.
+
+My contributions have been merged into projects with **10k+ to 49k+ GitHub stars**, covering areas such as AI/LLM integrations, security fixes, documentation, developer experience, and code quality improvements.
+
+| Project | Stars | Area | Contribution |
+|---|---:|---|---|
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | AI / LLM Integration | [Added GPT-5.4 dated snapshot model support](https://github.com/run-llama/llama_index/pull/21191) |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | AI / LLM Integration | [Added GPT-5.3 model family support](https://github.com/run-llama/llama_index/pull/21190) |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | Documentation | [Added placeholder docstrings in public abstract base classes](https://github.com/run-llama/llama_index/pull/21189) |
+| [subquery/subql](https://github.com/subquery/subql) | 18k+ | Security | [Fixed SQL injection risk in dynamic datasource appending](https://github.com/subquery/subql/pull/3031) |
+| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | 10k+ | Documentation | [Documented test environment variables](https://github.com/vrtmrz/obsidian-livesync/pull/838) |
+| [BhupinderSehjal/OpenLife](https://github.com/BhupinderSehjal/OpenLife) | OSS | Backend Quality | [Returned clean login error when user email does not exist](https://github.com/BhupinderSehjal/OpenLife/pull/112) |
+| [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | OSS | Automation | [Refactored automated star verification and payout tracking script](https://github.com/Scottcjn/rustchain-bounties/pull/2699) |
+| [OmniLRS/OmniLRS](https://github.com/OmniLRS/OmniLRS) | OSS | Code Quality | [Updated Hydra decorator to specify version_base parameter](https://github.com/OmniLRS/OmniLRS/pull/107) |
+
+---
+
 ⭐ Build less, think more. Ship with intent.

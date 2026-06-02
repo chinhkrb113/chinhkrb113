@@ -25,7 +25,7 @@ I contribute to open-source projects with real-world adoption, including reposit
 My contributions have been merged into projects with **10k+ to 49k+ GitHub stars**, covering areas such as AI/LLM integrations, security fixes, documentation, developer experience, automation, CLI tooling, and code quality improvements.
 
 | Project | Stars | Area | Contribution | Status |
-|---|---:|---|---|
+|---|---:|---|---|---|
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | AI / LLM Integration | [Added GPT-5.4 dated snapshot model support](https://github.com/run-llama/llama_index/pull/21191) | Merged |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | AI / LLM Integration | [Added GPT-5.3 model family support](https://github.com/run-llama/llama_index/pull/21190) | Merged |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | Documentation | [Added placeholder docstrings in public abstract base classes](https://github.com/run-llama/llama_index/pull/21189) | Merged |

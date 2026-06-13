@@ -26,9 +26,9 @@ My contributions have been merged into projects with **10k+ to 49k+ GitHub stars
 
 | Project | Stars | Area | Contribution | Status |
 |---|---:|---|---|---|
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | AI / LLM Integration | [Added GPT-5.4 dated snapshot model support](https://github.com/run-llama/llama_index/pull/21191) | Merged |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | AI / LLM Integration | [Added GPT-5.3 model family support](https://github.com/run-llama/llama_index/pull/21190) | Merged |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 49k+ | Documentation | [Added placeholder docstrings in public abstract base classes](https://github.com/run-llama/llama_index/pull/21189) | Merged |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k+ | AI / LLM Integration | [Added GPT-5.4 dated snapshot model support](https://github.com/run-llama/llama_index/pull/21191) | Merged |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k+ | AI / LLM Integration | [Added GPT-5.3 model family support](https://github.com/run-llama/llama_index/pull/21190) | Merged |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k+ | Documentation | [Added placeholder docstrings in public abstract base classes](https://github.com/run-llama/llama_index/pull/21189) | Merged |
 | [subquery/subql](https://github.com/subquery/subql) | 18k+ | Security | [Fixed SQL injection risk in dynamic datasource appending](https://github.com/subquery/subql/pull/3031) | Merged |
 | [Canop/broot](https://github.com/Canop/broot) | 12k+ | CLI / Developer Experience | [Fixed Kakoune file editing with client and server specification](https://github.com/Canop/broot/pull/1169) | Merged |
 | [Canop/broot](https://github.com/Canop/broot) | 12k+ | CLI / Terminal UX | [Fixed full-quality image rendering on WezTerm](https://github.com/Canop/broot/pull/1171) | Merged |

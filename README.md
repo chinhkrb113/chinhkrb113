@@ -22,7 +22,7 @@ I care about building systems that are **clear, resilient, and designed to evolv
 
 I contribute to open-source projects with real-world adoption, including repositories used by thousands of developers worldwide.
 
-My contributions have been merged into projects with **10k+ to 49k+ GitHub stars**, covering areas such as AI/LLM integrations, security fixes, documentation, developer experience, automation, CLI tooling, and code quality improvements.
+My contributions have been merged into projects with **10k+ to 50k+ GitHub stars**, covering areas such as AI/LLM integrations, security fixes, documentation, developer experience, automation, CLI tooling, and code quality improvements.
 
 | Project | Stars | Area | Contribution | Status |
 |---|---:|---|---|---|

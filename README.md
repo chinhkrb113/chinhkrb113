@@ -26,7 +26,7 @@ My contributions have been merged into projects with **10k+ to 50k+ GitHub stars
 
 | Project | Stars | Area | Contribution | Status |
 |---|---:|---|---|---|
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 60k+ | Security / Flask Backend | [Disabled Flask debug mode by default to prevent exposed Werkzeug debugger RCE risk](https://github.com/666ghj/MiroFish/pull/445) | Merged |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 69k+ | Security / Flask Backend | [Disabled Flask debug mode by default to prevent exposed Werkzeug debugger RCE risk](https://github.com/666ghj/MiroFish/pull/445) | Merged |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k+ | AI / LLM Integration | [Added GPT-5.4 dated snapshot model support](https://github.com/run-llama/llama_index/pull/21191) | Merged |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k+ | AI / LLM Integration | [Added GPT-5.3 model family support](https://github.com/run-llama/llama_index/pull/21190) | Merged |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 50k+ | Documentation | [Added placeholder docstrings in public abstract base classes](https://github.com/run-llama/llama_index/pull/21189) | Merged |

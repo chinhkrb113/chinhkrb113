@@ -1,7 +1,6 @@
 ## Hi, I'm Chinh - Software Architect 👋
 
 ### Code is a tool. Mindset is the real value.  
-*Code là công cụ, tư duy mới là giá trị cốt lõi.*
 
 I care about building systems that are **clear, resilient, and designed to evolve**.
 

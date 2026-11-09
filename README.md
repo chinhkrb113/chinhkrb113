@@ -23,8 +23,8 @@ I contribute to open-source projects with real-world adoption, including reposit
 
 My contributions have been merged into projects with **10k+ to 70k+ GitHub stars**, covering areas such as AI/LLM integrations, security fixes, documentation, developer experience, automation, CLI tooling, and code quality improvements.
 
-| Project | Stars | Area | Contribution | Status |
-|---|---:|---|---|---|
+| Project | Stars |
+|---|---:|
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 85k+ | 
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52k+ | 
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 37k+ |

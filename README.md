@@ -27,11 +27,11 @@ My contributions have been merged into projects with **10k+ to 80k+ GitHub stars
 |---|---:|
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 86k+ | 
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52k+ | 
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 37k+ |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 39k+ |
 | [subquery/subql](https://github.com/subquery/subql) | 18k+ |
 | [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) | 15k+ |
 | [Canop/broot](https://github.com/Canop/broot) | 13k+ |
-| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | 12k+ |
+| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | 13k+ |
 | [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) | 300+ |
 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | 200+ |
 | [OmniLRS/OmniLRS](https://github.com/OmniLRS/OmniLRS) | 200+ |
